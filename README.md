@@ -5,3 +5,6 @@ Very rough schematic for a Allstar USB FOB board by VA3IAN
 
 # Schematic
 [Schematic](asl-allstar.pdf)
+
+# Credits
+[SHARI-Schematic](https://hamprojects.info/shari/shari-schematic/)
